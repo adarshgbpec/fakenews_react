@@ -1,3 +1,0 @@
-joblib==0.17.0
-Django==3.1.7
-numpy==1.19.2
